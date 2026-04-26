@@ -35,7 +35,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── Config ───────────────────────────────────────────────────────────────────
-GEMINI_API_KEY = "AIzaSyAShbAS1RRraSyRexNWFflOE4t1woEoJ44"
+GEMINI_API_KEY = ""
 JSONL_FILE = "dubizzle_apartments_egypt.jsonl"
 ENRICHED_JSONL = "dubizzle_apartments_enriched.jsonl"
 ENRICHED_CSV = "dubizzle_apartments_enriched.csv"
